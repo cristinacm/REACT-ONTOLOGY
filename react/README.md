@@ -2,4 +2,4 @@
 REACT Ontology repository
 
 # Contact
-iker.esnaola at tekniker.es
+cristina.aceta at tekniker.es
